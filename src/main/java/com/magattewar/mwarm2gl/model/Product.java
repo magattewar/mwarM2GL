@@ -7,6 +7,11 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
+/**
+ * nom : WAR
+ * prenom : Magatte
+ * classe : M2GL
+ */
 //@JsonFilter("monFiltreDynamique")
 @Entity
 public class Product {

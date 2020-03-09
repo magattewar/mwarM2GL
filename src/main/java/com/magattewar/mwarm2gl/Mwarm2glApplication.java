@@ -4,6 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
+/**
+ * nom : WAR
+ * prenom : Magatte
+ * classe : M2GL
+ */
 @SpringBootApplication
 @EnableSwagger2
 public class Mwarm2glApplication {

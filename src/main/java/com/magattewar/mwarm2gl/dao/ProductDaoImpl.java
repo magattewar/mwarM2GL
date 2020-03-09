@@ -11,6 +11,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * nom : WAR
+ * prenom : Magatte
+ * classe : M2GL
+ */
 @Repository
 public class ProductDaoImpl implements ProductDao {
 

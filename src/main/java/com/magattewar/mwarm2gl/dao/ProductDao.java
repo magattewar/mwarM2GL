@@ -6,6 +6,11 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+ * nom : WAR
+ * prenom : Magatte
+ * classe : M2GL
+ */
 @Repository
 public interface ProductDao extends JpaRepository<Product, Integer> {
 
